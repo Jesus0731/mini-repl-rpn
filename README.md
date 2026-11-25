@@ -6,14 +6,14 @@
 **Asignación #1 (Semestre 1-2026) — Parte II: Componente Práctico**  
 **Lenguaje seleccionado:** Kotlin (`kotlinc-jvm 2.4.21` sobre JVM / JDK 21+)  
 **Integrantes:**
-- `Jesus Herrada`
+- `Jesús Herrada`
 - `Samuel Reyna`
 
 ---
 
 ## 1. Descripción General
 
-Aplicación interactiva de consola (**REPL**: *Read-Eval-Print Loop*) desarrollada en **Kotlin** que evalúa expresiones matemáticas y comparaciones lógicas utilizando estrictamente **Notación Polaca Inversa (Postfija / RPN)** basada en una pila explícita (*stack*), tokenizando la entrada por espacios en blanco y poniendo en práctica los cuatro ejes analizados en el Reporte Técnico (Parte I).
+Aplicación interactiva de consola (**REPL**: *Read-Eval-Print Loop*) desarrollada en **Kotlin** que evalúa expresiones matemáticas y comparaciones lógicas utilizando estrictamente **Notación Polaca Inversa (Postfija / RPN)** basada en una pila explícita (*stack*), tokenizando la entrada por espacios en blanco y poniendo en práctica los cuatro ejes analizados en el Reporte Técnico.
 
 ### Cumplimiento de los 4 Requisitos Técnicos del Enunciado
 
