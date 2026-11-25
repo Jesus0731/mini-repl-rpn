@@ -2,7 +2,7 @@
 
 **Universidad de Carabobo**  
 **Facultad Experimental de Ciencias y Tecnología (FACYT)**  
-**U.A. de Algoritmos, Programación y Lenguajes — CAO604: Lenguajes de Programación**  
+**CAO604: Lenguajes de Programación**  
 **Asignación #1 (Semestre 1-2026) — Parte II: Componente Práctico**  
 **Lenguaje seleccionado:** Kotlin (`kotlinc-jvm 2.4.21` sobre JVM / JDK 21+)  
 **Integrantes:**
